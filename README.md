@@ -1,12 +1,26 @@
-# React + Vite
+# DevMate 🧠💻
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DevMate is a developer productivity dashboard that brings together all your essential tools in one place.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 View GitHub Repositories
+- ✅ Manage Tasks
+- ⏱️ Use Pomodoro Timer
+- 📆 Daily Planner with reminders
+- 💾 Save Code Snippets (with tags and languages)
+- 🌙 Light/Dark Mode Toggle
+- 💬 Button to open ChatGPT directly
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React + Vite
+- Bootstrap
+- Firebase (for saving snippets)
+- GitHub API
+
+## 📦 How to Use
+
+1. **Clone the repo**  
+```bash
+git clone https://github.com/Anwesha-26-arch/devmate.git
