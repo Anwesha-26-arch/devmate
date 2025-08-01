@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 
 // 🔐 Replace this config with your own from Firebase Console
 const firebaseConfig = {
-  apiKey: "AIzaSyD7SKlD2bZ-rqmFI16s3TK9cCjZmb7w8TQ",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "devmate-firebase.firebaseapp.com",
   projectId: "devmate-firebase",
   storageBucket: "devmate-firebase.firebasestorage.app",
